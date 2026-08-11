@@ -17,13 +17,10 @@ The dataset includes pairs of **Baseline (Inefficient)** vs. **Optimized** promp
 5. Research Paper Summarization
 
 
-
-
-
-
+```text
 token-waste-academic-llm/
 │
-├── README.md                      # প্রজেক্টের সারসংক্ষেপ, পেপারের তথ্য এবং ব্যবহারের নিয়মাবলী
+├── README.md                       # প্রজেক্টের সারসংক্ষেপ, পেপারের তথ্য এবং ব্যবহারের নিয়মাবলী
 ├── LICENSE                        # Open-source লাইসেন্স (যেমন: MIT)
 ├── .gitignore                     # অনাবশ্যক ফাইল (যেমন: __pycache__, .env, .DS_Store)
 ├── requirements.txt               # প্রজেক্টের প্রয়োজনীয় লাইব্রেরি (tiktoken, pandas, matplotlib ইত্যাদি)
@@ -50,3 +47,7 @@ token-waste-academic-llm/
 └── visualization/                 # গ্রাফ ও চার্ট (Matplotlib/Seaborn দিয়ে তৈরি)
     ├── token_reduction_bar_chart.png
     └── latency_vs_quality_plot.png
+```
+
+
+
