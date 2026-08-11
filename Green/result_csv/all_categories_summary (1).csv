@@ -1,0 +1,6 @@
+Category,Baseline Total,Optimized Total,Input Tokens Wasted,Total Tokens Saved,Net % Reduction
+Assignment Writing,425.8,307.6,19.8,118.2,23.88
+Concept Learning,291.2,227.0,19.8,64.2,22.03
+Exam Preparation,540.4,465.2,19.6,75.2,7.79
+Programming Help,250.8,234.6,23.0,16.2,4.28
+Research Paper Summarization,402.0,322.8,31.0,79.2,19.93

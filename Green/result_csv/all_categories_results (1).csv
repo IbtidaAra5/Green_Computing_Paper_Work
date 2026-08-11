@@ -1,0 +1,26 @@
+Category,Pair #,Baseline Input,Baseline Output,Baseline Total,Optimized Input,Optimized Output,Optimized Total,Input Tokens Wasted,Output Token Diff,Total Tokens Saved,Net % Reduction
+Assignment Writing,1,83,260,343,51,266,317,32,-6,26,7.58
+Assignment Writing,2,80,681,761,58,448,506,22,233,255,33.51
+Assignment Writing,3,69,355,424,57,107,164,12,248,260,61.32
+Assignment Writing,4,64,266,330,43,265,308,21,1,22,6.67
+Assignment Writing,5,63,208,271,51,192,243,12,16,28,10.33
+Exam Preparation,1,84,482,566,53,420,473,31,62,93,16.43
+Exam Preparation,2,60,292,352,48,233,281,12,59,71,20.17
+Exam Preparation,3,66,271,337,42,464,506,24,-193,-169,-50.15
+Exam Preparation,4,54,1148,1202,41,844,885,13,304,317,26.37
+Exam Preparation,5,66,179,245,48,133,181,18,46,64,26.12
+Programming Help,1,112,72,184,66,131,197,46,-59,-13,-7.07
+Programming Help,2,136,169,305,122,109,231,14,60,74,24.26
+Programming Help,3,134,94,228,121,156,277,13,-62,-49,-21.49
+Programming Help,4,106,156,262,91,137,228,15,19,34,12.98
+Programming Help,5,100,175,275,73,167,240,27,8,35,12.73
+Concept Learning,1,81,245,326,47,217,264,34,28,62,19.02
+Concept Learning,2,84,206,290,57,154,211,27,52,79,27.24
+Concept Learning,3,72,227,299,51,173,224,21,54,75,25.08
+Concept Learning,4,68,218,286,59,171,230,9,47,56,19.58
+Concept Learning,5,66,189,255,58,148,206,8,41,49,19.22
+Research Paper Summarization,1,80,292,372,40,223,263,40,69,109,29.3
+Research Paper Summarization,2,89,362,451,44,312,356,45,50,95,21.06
+Research Paper Summarization,3,74,273,347,48,222,270,26,51,77,22.19
+Research Paper Summarization,4,71,340,411,51,333,384,20,7,27,6.57
+Research Paper Summarization,5,75,354,429,51,290,341,24,64,88,20.51
