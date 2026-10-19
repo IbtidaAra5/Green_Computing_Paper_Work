@@ -98,7 +98,7 @@ Classification depends on the **purpose and context** of the interaction, not on
 
 <div align="center">
 
-![Methodology](figures/Methodology-GC.png)
+![Methodology](Methodology-GC.png)
 
 </div>
 
