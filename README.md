@@ -104,18 +104,7 @@ Classification depends on the **purpose and context** of the interaction, not on
 
 The pipeline moves from a fixed task set, through two prompt variants, into controlled model execution, and ends with a pair-by-pair comparison.
 
-```mermaid
-flowchart LR
-    A[100 university tasks<br/>5 categories × 20] --> B[Baseline prompt]
-    A --> C[Optimized prompt]
-    B --> D[Controlled LLM execution<br/>T=0 · seed=42]
-    C --> D
-    D --> E[Baseline result<br/>input / output / total tokens, time]
-    D --> F[Optimized result<br/>input / output / total tokens, time]
-    E --> G[Paired comparison<br/>token & time reduction %]
-    F --> G
-    G --> H[Human quality scoring<br/>accuracy · completeness · usefulness]
-```
+
 
 ### 1️⃣ Dataset Preparation
 
